@@ -10,7 +10,7 @@
 <!--About me-->
 - 📚 I'm a Computer Science student and I really like back-end development.
 - 💭 I already took a game development course where I started programming in C#
-- 👨🏻‍💻 I'm currently learning `Python` and `MySQL`
+- 👨🏻‍💻 I'm currently learning `Python`, `Java` and `MySQL`
 - 🕹 In my free time I like to play games, read and listen music
 
 <!--Github stats-->
