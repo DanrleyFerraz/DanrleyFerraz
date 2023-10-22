@@ -1,4 +1,4 @@
-## Hi, I'm <a href="https://www.linkedin.com/in/danrleyferraz//">Danrley
+## Hi, I'm <a href="https://www.linkedin.com/in/danrleyferraz//">Danrley  👻👻
     
     
 <img 
@@ -9,8 +9,8 @@
     autoplay='true'
 />
 <!--About me-->
-- 📚 I'm a Software Engineer student and I really like back-end development.
-- 💭 I already took a game development course where I started programming in C#
+- 📚 I'm a Software Engineering student and completely passionate about back-end development
+- 💭 I'm very curious, I always want to learn or develop new skills
 - 👨🏻‍💻 I'm currently learning `Python`, `Java` and `MySQL`
 - 🕹 In my free time I like to play games, read, listen music and practice martial arts
 
