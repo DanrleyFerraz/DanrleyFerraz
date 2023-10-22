@@ -2,16 +2,17 @@
     
     
 <img 
-    src="https://media.tenor.com/wE4BAQWJGXkAAAAj/jolteon.gif"
-    alt='Jolteon Pokemon'
+    src="https://media.tenor.com/w33hdDzoSE0AAAAi/haunter.gif"
+    alt='Gengar Pokemon'
     align='right'
     width='250px'
+    autoplay='true'
 />
 <!--About me-->
-- 📚 I'm a Computer Science student and I really like back-end development.
+- 📚 I'm a Software Engineer student and I really like back-end development.
 - 💭 I already took a game development course where I started programming in C#
 - 👨🏻‍💻 I'm currently learning `Python`, `Java` and `MySQL`
-- 🕹 In my free time I like to play games, read and listen music
+- 🕹 In my free time I like to play games, read, listen music and practice martial arts
 
 <!--Github stats-->
 <a href="#">
