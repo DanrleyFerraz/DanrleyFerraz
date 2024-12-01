@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danrley</h1>
-<h3 align="center">A passionate Backend Developer from Brazil with a growing interest in DevOps</h3>
+<h3 align="center">A passionate Back-end Developer from Brazil with a growing interest in DevOps</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Aspiring+DevOps+Engineer;Always%20learning%20new%20things!&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Back-end+Developer;Aspiring+DevOps+Engineer;Always%20learning%20new%20things!&center=true&width=380&height=45">
   </a>
 </p>
 <p align="center">
