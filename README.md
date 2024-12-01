@@ -69,7 +69,7 @@
 </p>
 
 <div align="center">
-  <p><em>Let's build something amazing together? 🚀</em></p>
+  <p><em>Let's build something amazing together? 🚀 </em> </p>
 </div>
 
 
