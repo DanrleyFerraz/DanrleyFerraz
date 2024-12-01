@@ -15,7 +15,6 @@
 - 🔭 I'm currently working on a personal project called **[Auryo](https://github.com/DanrleyFerraz/Auryo)**
 - 🌱 I'm currently learning **DevOps practices and Spring Boot**
 - 👨‍💻 All of my projects are available at my **[Portfolio](https://danrleyferraz.github.io/portfolio/)**
-- 💬 Ask me about **Java, Spring Boot, and Database Management**
 - 📫 How to contact me? Send me an **[Email](mailto:danrleyf.dev@gmail.com)**
 - ⚡ Fun fact: **I love programming and training Brazilian Jiu Jitsu**
 
