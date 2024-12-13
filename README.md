@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me :
 - 📒I'm currently a Software Engineering student at **Jala University**.
-- 🔭 I'm currently working on a personal project called **[Auryo](https://github.com/DanrleyFerraz/Auryo)**
+- 🔭 I'm currently working on two personal projects called **[Auryo](https://github.com/DanrleyFerraz/Auryo)** and **[Project_M](https://github.com/DanrleyFerraz/project_m)**
 - 🌱 I'm currently learning **DevOps practices and Spring Boot**
 - 👨‍💻 All of my projects are available at my **[Portfolio](https://danrleyferraz.github.io/portfolio/)**
 - 📫 How to contact me? Send me an **[Email](mailto:danrleyf.dev@gmail.com)**
