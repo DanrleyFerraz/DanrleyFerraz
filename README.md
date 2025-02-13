@@ -47,9 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DanrleyFerraz&show_icons=true&theme=radical" alt="DanrleyFerraz" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanrleyFerraz&theme=radical" alt="DanrleyFerraz" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanrleyFerraz&layout=compact&theme=radical" alt="DanrleyFerraz" />
 </p>
 
